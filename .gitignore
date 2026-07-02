@@ -76,3 +76,8 @@ DerivedDataCache/*
 
 # Large binary cache files
 *.bin
+
+cvd_unreal/Saved/
+cvd_unreal/Intermediate/
+cvd_unreal/DerivedDataCache/
+cvd_unreal/Binaries/
